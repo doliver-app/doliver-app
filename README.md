@@ -11,7 +11,7 @@
 
 - 📫 Contact me here: **derek@doliver.app**
 
-- ⚡ Fun fact: **I'm always ready for a game of chess / https://lichess.org/@/r8drmate**
+- ⚡ Fun fact: **I'm always ready for a game of chess! https://lichess.org/@/r8drmate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
