@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derek Oliver</h1>
-<h3 align="center">A cloud engineer focused on secure and scalable hybrid designs</h3>
+<h3 align="center">A Cloud Engineer at the intersection SecOps, Explainable AI and Deployment Frameworks s</h3>
 
 - 🔭 I’m currently working on: [EDA Using Vertex API & Langchain](https://github.com/users/doliver-app/projects/1)
 
