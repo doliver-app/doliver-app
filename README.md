@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Derek Oliver</h1>
 <h3 align="center">A cloud engineer focused on secure and scalable hybrid designs</h3>
 
-- 🔭 I’m currently working on [EDA Using Vertex API & Langchain](https://github.com/users/doliver-app/projects/1)
+- 🔭 I’m currently working on: [EDA Using Vertex API & Langchain](https://github.com/users/doliver-app/projects/1)
 
-- 🌱 I’m currently learning **Google Cloud Professional Security Engineer**
+- 🌱 I’m currently studying: **Google Cloud Professional Security Engineer**
 
-- 👯 I’m looking to collaborate on [Google AI & ML](https://xmind.app/m/WcQEGU/)
+- 👯 I’m interested in perspectives on: [Google AI & ML](https://xmind.app/m/WcQEGU/)
 
-- 💬 Ask me about **Google Cloud, Vertex AI, SecOps**
+- 💬 Ask me about: **Google Cloud, Vertex AI, SecOps**
 
-- 📫 How to reach me **derek@doliver.app**
+- 📫 Contact me here: **derek@doliver.app**
 
-- ⚡ Fun fact **Always ready for a game of chess**
+- ⚡ Fun fact: **I'm always ready for a game of chess / https://lichess.org/@/r8drmate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
