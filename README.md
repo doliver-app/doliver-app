@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [LLM-driven EDA with Vertex, LangChain & PaLM API](https://github.com/doliver-app/doliver-app/blob/doliver-app-colab-ml/llm_driven_eda_vertex_langchain_palm_api.ipynb)
 
-- 🌱 I’m currently studying: **Google Cloud Professional Security Engineer**
+- 🌱 I’m currently studying: [Google Cloud Professional Security Engineer](https://cloud.google.com/learn/certification/cloud-security-engineer)
 
 - 👯 I’m interested in perspectives on: [Google AI & ML](https://xmind.app/m/WcQEGU/)
 
