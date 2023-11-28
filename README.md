@@ -7,7 +7,7 @@
 
 - 👯 I’m interested in perspectives on: [Google AI & ML](https://xmind.app/m/WcQEGU/)
 
-- 💬 Ask me about: **Google Cloud, Vertex AI, SecOps**
+- 💬 Ask me about: [TPUs](https://cloud.google.com/tpu), [Model Garden](https://cloud.google.com/vertex-ai/docs/start/explore-models), [SecOps](https://cloud.google.com/chronicle-security-operations?hl=en)
 
 - 📫 Contact me here: **derek@doliver.app**
 
