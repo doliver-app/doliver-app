@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derek Oliver</h1>
 <h3 align="center">A Cloud Engineer at the intersection SecOps, Data Science and Deployment Frameworks</h3>
 
-- 🔭 I’m currently working on: [LLM-driven EDA with Vertex, LangChain & PaLM API](llm_driven_eda_vertex_langchain_palm_api.ipynb)
+- 🔭 I’m currently working on: [LLM-driven EDA with Vertex, LangChain & PaLM API](https://github.com/doliver-app/doliver-app/blob/doliver-app-colab-ml/llm_driven_eda_vertex_langchain_palm_api.ipynb)
 
 - 🌱 I’m currently studying: **Google Cloud Professional Security Engineer**
 
