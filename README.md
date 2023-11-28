@@ -9,9 +9,9 @@
 
 - 💬 Ask me about: [TPUs](https://cloud.google.com/tpu), [Model Garden](https://cloud.google.com/vertex-ai/docs/start/explore-models), [SecOps](https://cloud.google.com/chronicle-security-operations?hl=en)
 
-- 📫 Contact me here: **derek@doliver.app**
+- 📫 Contact me here: derek@doliver.app
 
-- ⚡ Fun fact: **I'm always ready for a game of chess! https://lichess.org/@/r8drmate**
+- ⚡ Fun fact: **I'm always ready for a game of chess! https://lichess.org/@/r8drmate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
